@@ -12,7 +12,9 @@ I am a full stack web developer with more than 5 years of experience using front
 ## ✨ GitHub Stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=alexchristianqr&show_icons=true&theme=vue-dark)](https://github.com/alexchristianqr)
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexchristianqr&repo=portfolio&theme=vue-dark)](https://github.com/alexchristianqr/portfolio)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchristianqr&layout=compact&theme=vue-dark)](https://github.com/alexchristianqr)
 
 ## 🛠️ Languages and Tools:

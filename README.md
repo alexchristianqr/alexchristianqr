@@ -1,32 +1,19 @@
-<div style="display: table">
-<div style="display: table-row">
-
-<div style="display: table-cell; width: 50%; padding-right: 10px; text-align: justify; top: 0; bottom: 0">
-<div style="text-align: center">
-
 # 👋 Hi, I'm Alex
-<img src="assets/profile.jpg?raw=true" style="border-radius: 50%; width: 150px" alt="Alex Christian">
-</div>
-<p>I am a full stack web developer with more than 5 years of experience using frontend and backend technologies. I have worked in high growth startups where the challenges and day to day are variable and high learning. I am also a digital entrepreneur to know more about technology business.</p>
+
+[![avatar](assets/profile_background.jpg)](https://github.com/alexchristianqr)
+
+I am a full stack web developer with more than 5 years of experience using frontend and backend technologies. I have worked in high growth startups where the challenges and day to day are variable and high learning. I am also a digital entrepreneur to know more about technology business.
 
 [![Twitter](https://img.shields.io/twitter/follow/alexchristianqr?label=Follow)](https://twitter.com/alexchristianqr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexchristianqr/)
 [![GitHub](https://img.shields.io/github/followers/alexchristianqr?label=Follow)](https://github.com/alexchristianqr?tab=followers)
 [![GitHub](https://img.shields.io/github/stars/alexchristianqr)](https://github.com/alexchristianqr?tab=stars)
 
-</div>
-
-<div style="display: table-cell; width: 50%; padding-left: 10px;">
-
-# ✨ My GitHub Stats
+## ✨ GitHub Stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=alexchristianqr&show_icons=true&theme=vue-dark)](https://github.com/alexchristianqr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchristianqr&layout=compact&theme=vue-dark)](https://github.com/alexchristianqr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexchristianqr&repo=portfolio&theme=vue-dark)](https://github.com/alexchristianqr/portfolio)
-</div>
-
-</div>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchristianqr&layout=compact&theme=vue-dark)](https://github.com/alexchristianqr)
 
 ## 🛠️ Languages and Tools:
 

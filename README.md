@@ -17,7 +17,7 @@ I am a full stack web developer with more than 5 years of experience using front
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexchristianqr&layout=compact&theme=vue-dark)](https://github.com/alexchristianqr)
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)

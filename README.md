@@ -4,8 +4,8 @@
 
 I am a full stack web developer with more than 5 years of experience using frontend and backend technologies. I have worked in high growth startups where the challenges and day to day are variable and high learning. I am also a digital entrepreneur to know more about technology business.
 
-[![Twitter](https://img.shields.io/twitter/follow/alexchristianqr?label=Follow)](https://twitter.com/alexchristianqr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexchristianqr/)
+[![GitHub](https://visitor-badge.glitch.me/badge?page_id=alexchristianqr.portfolio)](https://github.com/alexchristianqr?tab=stars)
 [![GitHub](https://img.shields.io/github/followers/alexchristianqr?label=Follow)](https://github.com/alexchristianqr?tab=followers)
 [![GitHub](https://img.shields.io/github/stars/alexchristianqr)](https://github.com/alexchristianqr?tab=stars)
 

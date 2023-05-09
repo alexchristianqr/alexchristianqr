@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex
+# 👋 Hi, My name is Alex
 
 [![avatar](assets/profile_background.jpg)](https://github.com/alexchristianqr)
 
@@ -7,7 +7,7 @@ worked in high growth startups where the challenges and day to day are variable 
 entrepreneur to know more about technology business.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexchristianqr/)
-[![GitHub](https://visitor-badge.glitch.me/badge?page_id=alexchristianqr.portfolio.issue.1)](https://visitor-badge.glitch.me/badge?page_id=alexchristianqr.portfolio.issue.1)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexchristianqr%2Fhit-counter&count_bg=%230374B5&title_bg=%235D5D5D&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub](https://img.shields.io/github/followers/alexchristianqr?label=followers)](https://github.com/alexchristianqr?tab=followers)
 [![GitHub](https://img.shields.io/github/stars/alexchristianqr)](https://github.com/alexchristianqr?tab=stars)
 

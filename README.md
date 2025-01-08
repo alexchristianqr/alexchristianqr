@@ -18,12 +18,11 @@ entrepreneur to know more about technology business.
 ## 🛠️ Languages and Tools
 
 [![AWS](https://img.shields.io/badge/-Amazon_Web_Services-black?style=flat-square&logo=Amazon)](https://aws.amazon.com/es/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)](https://nodejs.org/es/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://devdocs.io/javascript/)
 [![HTML5](https://img.shields.io/badge/-Html5-black?style=flat-square&logo=html5)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://devdocs.io/css/)
-[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://devdocs.io/sass/)
 [![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)](https://devdocs.io/typescript/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)](https://nodejs.org/es/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
 [![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)](https://vuejs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=dd0031)](https://angular.io/)
@@ -31,7 +30,6 @@ entrepreneur to know more about technology business.
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)](https://laravel.com/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)](https://www.mysql.com/)
-[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)]()
 
 ## 🌐 Links
 

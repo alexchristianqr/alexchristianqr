@@ -2,7 +2,7 @@
 
 [![avatar](assets/profile_background.jpg)](https://github.com/alexchristianqr)
 
-I am a full stack web developer with more than 5 years of experience using frontend and backend technologies. I have
+I'm Software Engineer & full stack web developer with more than 5 years of experience using frontend and backend technologies. I have
 worked in high growth startups where the challenges and day to day are variable and high learning. I am also a digital
 entrepreneur to know more about technology business.
 

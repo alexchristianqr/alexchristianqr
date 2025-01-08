@@ -15,7 +15,7 @@ entrepreneur to know more about technology business.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=alexchristianqr&show_icons=true&theme=vue-dark)](https://github.com/alexchristianqr)
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages and tools used
 
 [![AWS](https://img.shields.io/badge/-Amazon_Web_Services-black?style=flat-square&logo=Amazon)](https://aws.amazon.com/es/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node.js)](https://nodejs.org/es/)

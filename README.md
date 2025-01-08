@@ -17,6 +17,7 @@ entrepreneur to know more about technology business.
 
 ## 🛠️ Languages and Tools
 
+[![AWS](https://img.shields.io/badge/-Amazon_Web_Services-black?style=flat-square&logo=Amazon)](https://aws.amazon.com/es/)
 [![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://devdocs.io/javascript/)
 [![HTML5](https://img.shields.io/badge/-Html5-black?style=flat-square&logo=html5)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://devdocs.io/css/)
@@ -31,9 +32,7 @@ entrepreneur to know more about technology business.
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)](https://www.mysql.com/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)]()
-[![AWS](https://img.shields.io/badge/-Amazon_Web_Services-black?style=flat-square&logo=Amazon)](https://aws.amazon.com/es/)
-[![DigitalOcean](https://img.shields.io/badge/-Digital_Ocean-black?style=flat-square&logo=DigitalOcean)]()
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
+
 ## 🌐 Links
 
 [Unified documents in a single website] (https://devdocs.io/)

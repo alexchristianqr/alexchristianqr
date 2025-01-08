@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Alex
+# 👋 Hi, I'm Alex.
 
 [![avatar](assets/profile_background.jpg)](https://github.com/alexchristianqr)
 
